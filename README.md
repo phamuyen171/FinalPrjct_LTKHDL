@@ -1,13 +1,14 @@
 # LẬP TRÌNH CHO KHOA HỌC DỮ LIỆU
 ## Đồ án cuối kì
+### PHÂN TÍCH CÁC KHÓA HỌC TRÊN NỀN TẢNG COURSERA
 
 ---
 
-Lớp: 22_21
+**Lớp**: 22_21
 
-Nhóm: 21
+**Nhóm:** 21
 
-Thành viên:
+**Thành viên:**
 
 1. Hồ Nhất Trí - 22120380
 2. Phạm Ngọc Bảo Uyên - 22120424
